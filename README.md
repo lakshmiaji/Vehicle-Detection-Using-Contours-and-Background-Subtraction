@@ -7,6 +7,9 @@ Here I used OpenCV libraries cv.BackgroundSubtractorMOG2. to generate the foregr
 
 After foreground detection, using cv2.findContours detect contours.
 
+Output
+
+![1cap](https://user-images.githubusercontent.com/71822090/133784498-2dc645dc-db27-4fdf-9ee3-a6c0721ad5be.JPG)
 
 
 
